@@ -1,0 +1,19 @@
+{
+    "changed": [
+        "./CHANGELOG.md",
+        "./DOCS.md",
+        "./README.md",
+        "./core/_build.js",
+        "./core/dashboard/server/app.js",
+        "./core/handlers/events.js",
+        "./core/var/modules/checkAppstate.js",
+        "./package.json"
+    ],
+    "added": [
+        "./core/var/languages/ar_SY.yml",
+        "./plugins/commands/nsfw/nsfw.js",
+        "./plugins/commands/nsfw/rule34.js"
+    ],
+    "removed": [],
+    "preVersion": "2.0.5"
+}
