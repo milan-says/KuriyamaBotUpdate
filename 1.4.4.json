@@ -1,0 +1,14 @@
+{
+  "changed": [
+    "./app/boot.js",
+    "./app/client/index.js",
+    "./app/system.js",
+    "./CHANGELOG.md",
+    "./package.json",
+    "./TODO.txt",
+    "./README.md"
+  ],
+  "added": [],
+  "removed": [],
+  "preVersion": "1.4.3"
+}
